@@ -1,9 +1,9 @@
-object Form1: TForm1
+object frm_exemplo_000: Tfrm_exemplo_000
   Left = 0
   Top = 0
-  Caption = 'Form1'
-  ClientHeight = 242
-  ClientWidth = 527
+  Caption = 'Exemplo reposit'#243'rio Git'
+  ClientHeight = 332
+  ClientWidth = 602
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
