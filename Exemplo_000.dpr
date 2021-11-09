@@ -2,7 +2,9 @@ program Exemplo_000;
 
 uses
   Vcl.Forms,
-  unt_exemplo_000 in 'unt_exemplo_000.pas' {frm_exemplo_000};
+  unt_exemplo_000 in 'unt_exemplo_000.pas' {frm_exemplo_000},
+  Vcl.Themes,
+  Vcl.Styles;
 
 {$R *.res}
 

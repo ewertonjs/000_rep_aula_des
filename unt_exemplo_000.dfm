@@ -7,10 +7,19 @@ object frm_exemplo_000: Tfrm_exemplo_000
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
-  Font.Height = -11
+  Font.Height = -21
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
   PixelsPerInch = 96
-  TextHeight = 13
+  TextHeight = 25
+  object btn_mensagem: TButton
+    Left = 16
+    Top = 16
+    Width = 75
+    Height = 45
+    Caption = 'Fechar'
+    TabOrder = 0
+    OnClick = btn_mensagemClick
+  end
 end
